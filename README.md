@@ -19,3 +19,5 @@ docker-compose up
 ```shell 
 curl www.main.com 
 ```
+
+**Remember to change your dns server to 127.0.0.1🧑‍💻**
